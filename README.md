@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/Status-Alive-blue) ![](https://img.shields.io/badge/Projects-Exist-orange)
+
 ![](https://raw.githubusercontent.com/Geek202/Geek202/master/cat-typing-on-computer-gif-4.gif)
 
 <!--
