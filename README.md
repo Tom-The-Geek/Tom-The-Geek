@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/Status-Alive-blue) ![](https://img.shields.io/badge/Projects-Exist-orange)
+![status](https://img.shields.io/badge/Status-Alive-blue) ![pronouns](https://img.shields.io/endpoint?color=purple&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6014444bdf050336231bee2a)
 
 ![](https://raw.githubusercontent.com/Geek202/Geek202/master/cat-typing-on-computer-gif-4.gif)
 
