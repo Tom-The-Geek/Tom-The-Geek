@@ -1,3 +1,5 @@
+[![Tom_The_Geek](https://read-about-me.vercel.app/api/card/eyJuYW1lIjoiVG9tX1RoZV9HZWVrIiwibGluZXMiOlt7InRleHQiOiJTdHVkZW50IGFuZCBwcm9ncmFtbWVyIHdvcmtpbmcgb24gdG9vIG1hbnkgdGhpbmdzIn0seyJ0ZXh0IjoidGhleS90aGVtL2FueSIsImljb24iOiJwcm9ub3VucyJ9LHsidGV4dCI6IkVuZ2xhbmQsIFVLIiwiaWNvbiI6ImxvY2F0aW9uIn1dfQ==)](https://read-about-me.vercel.app/card/eyJuYW1lIjoiVG9tX1RoZV9HZWVrIiwibGluZXMiOlt7InRleHQiOiJTdHVkZW50IGFuZCBwcm9ncmFtbWVyIHdvcmtpbmcgb24gdG9vIG1hbnkgdGhpbmdzIn0seyJ0ZXh0IjoidGhleS90aGVtL2FueSIsImljb24iOiJwcm9ub3VucyJ9LHsidGV4dCI6IkVuZ2xhbmQsIFVLIiwiaWNvbiI6ImxvY2F0aW9uIn1dfQ==)
+
 ### Hi there 👋
 
 ![status](https://img.shields.io/badge/Status-Alive-blue) ![pronouns](https://img.shields.io/endpoint?color=purple&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6014444bdf050336231bee2a)
@@ -20,4 +22,4 @@ You can find me hanging around in the Minecraft Worldgen Discord or The Fabric P
 [Download one of my mods on CurseForge please :D](https://www.curseforge.com/members/tom_the_geek/projects)
 [Some of my mods are on Modrinth now!](https://modrinth.com/user/DOQgV7Mb)
 
-_Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+_Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [read-about-me](https://github.com/Geek202/read-about-me)_
