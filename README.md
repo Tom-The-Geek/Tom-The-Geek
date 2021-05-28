@@ -20,6 +20,6 @@ You can find me hanging around in the Minecraft Worldgen Discord or The Fabric P
 **Tom-The-Geek/Tom-The-Geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 [Download one of my mods on CurseForge please :D](https://www.curseforge.com/members/tom_the_geek/projects)
-[Some of my mods are on Modrinth now!](https://modrinth.com/user/DOQgV7Mb)
+[Some of my mods are on Modrinth now!](https://modrinth.com/user/Tom_The_Geek)
 
 _Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [read-about-me](https://github.com/Tom-The-Geek/read-about-me)_
